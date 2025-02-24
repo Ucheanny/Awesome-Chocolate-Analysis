@@ -27,4 +27,4 @@ Awesome-Chocolate-Analysis/
 See the Full Dashboard here - (<iframe title="Awesome Chocolate" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjg0NjA5Y2ItMWU1My00NWEwLWE0OGEtYzk0ZTU2OWQ3NTc5IiwidCI6Ijg1Mjc3MmY3LTRiZjMtNDA1Mi1iNjEzLWQ4MTE5NjRlMDRiNyJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 SNAPSHOT OF THE DASHBOARD
-![Portfolio Dashboard] (<img width="730" alt="Awesome Chocolate" src="https://github.com/user-attachments/assets/88397d56-4918-42ed-9df3-4b4209335e4c" />
+![Portfolio Dashboard] <img width="730" alt="Awesome Chocolate" src="https://github.com/user-attachments/assets/88397d56-4918-42ed-9df3-4b4209335e4c" />
